@@ -5,3 +5,5 @@ Official website for Great Foundation Leadership Program.
 Netlify deploys automatically from the `main` branch. Website changes are committed directly to GitHub; no manual Netlify upload is required.
 
 Current branding update includes the bold GF favicon/iPhone icon and improved social share metadata.
+
+Cache-busting icon deployment refreshed 2026-08-20.
