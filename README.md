@@ -5,4 +5,4 @@ Official website for Great Foundation Leadership Program.
 Netlify deploys automatically from the `main` branch. Website changes are committed directly to GitHub; no manual Netlify upload is required.
 
 Portrait asset fix applied 2026-08-20.
-Deployment trigger verification 2026-08-20 11:25 CT.
+Deployment trigger verification 2026-08-20 11:37 CT.
