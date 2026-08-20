@@ -1,0 +1,3 @@
+[build]
+  command = "rm -rf _site && mkdir _site && unzip -q great-foundation-github-ready.zip -d _site"
+  publish = "_site"
