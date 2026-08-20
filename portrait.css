@@ -1,0 +1,11 @@
+.bio-photo.portrait {
+  min-height: 420px;
+  padding: 0;
+  background-image: url('/images/emmanuel-s-desmolieres.jpg') !important;
+  background-size: cover !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+}
+@media (max-width: 800px) {
+  .bio-photo.portrait { min-height: 360px; }
+}
