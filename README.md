@@ -1,9 +1,9 @@
-# great-foundation-leadership
-Official website for Great Foundation Leadership Program.
+# Great Foundation Leadership Program
 
-## Deployment workflow
-Netlify deploys automatically from the `main` branch. Website changes are committed directly to GitHub; no manual Netlify upload is required.
+Standalone website for Great Foundation Leadership Program.
 
-Current branding update includes the bold GF favicon/iPhone icon and improved social share metadata.
+Domains:
+- https://greatfoundationleadership.org
+- https://gfleadership.org
 
-Cache-busting icon deployment refreshed 2026-08-20.
+This repository is the connected source for automatic Netlify deployments.
