@@ -1,6 +1,5 @@
 # great-foundation-leadership
-Official website for Great Foundation Leadership Program, a youth development nonprofit focused on leadership, literacy, financial literacy, AI literacy, mentorship, and community.
+Official website for Great Foundation Leadership Program.
 
-Deployment: Netlify automatically deploys the `main` branch.
-
-Deployment verification: 2026-08-20.
+## Deployment workflow
+Netlify deploys automatically from the `main` branch. Website changes should be committed directly to the source files in this repository; no manual Netlify upload is required.
