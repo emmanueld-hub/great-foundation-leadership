@@ -1,0 +1,6 @@
+.program-brand-logo{display:block;width:100%;max-width:300px;height:auto;margin:0 auto 22px;border-radius:18px;box-shadow:0 14px 34px rgba(4,20,45,.16)}
+.program-card.program-card-branded{display:block!important;text-align:left}
+.program-card.program-card-branded .program-brand-logo{max-width:290px}
+.program-feature.program-feature-branded{align-items:center!important;grid-template-columns:minmax(230px,320px) 1fr!important;gap:42px!important}
+.program-feature.program-feature-branded .program-brand-logo{margin:0}
+@media(max-width:800px){.program-feature.program-feature-branded{grid-template-columns:1fr!important;gap:22px!important}.program-feature.program-feature-branded .program-brand-logo{margin:0 auto;max-width:320px}.program-card.program-card-branded .program-brand-logo{max-width:320px}}
