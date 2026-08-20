@@ -1,0 +1,1 @@
+Trigger production rebuild for legal footer links - 2026-08-20 14:54 CDT
